@@ -1,0 +1,26 @@
+I now want you to assign some response to the following questions for every one of those people:
+Question:
+How much do you agree with the following statements? I like to walk in everyday life.
+Possible Answers:
+strongly agree, agree,  disagree, strongly disagree.
+
+
+Question:
+How much do you agree with the following statements? I enjoy cycling in everyday life. 
+Possible Answers:
+strongly agree, agree,  disagree, strongly disagree.
+
+Question:
+How much do you agree with the following statements? I enjoy driving my car in everyday life.
+Possible Answers:
+strongly agree, agree,  disagree, strongly disagree.
+
+Question:
+How much do you agree with the following statements? I like to travel by bus and train in everyday life. 
+Possible Answers:
+strongly agree, agree,  disagree, strongly disagree.
+
+Question:
+How many trips with at least one overnight stay away from home have you taken in the last three months? A round trip counts as one trip. 
+Possible Answers:
+no trip, 1 trip, 2 trips, 3 trips, 4 trips and more

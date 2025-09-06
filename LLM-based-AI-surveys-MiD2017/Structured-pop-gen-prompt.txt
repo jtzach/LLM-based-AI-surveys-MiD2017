@@ -1,0 +1,28 @@
+
+full-time employee (including trainees)	35
+part-time employee (11 to 35 hours per week)	12
+Employed person without details on the extent of education	1
+Pupil including preschool 	6
+Student	14
+housewife/househusband	5
+Pensioner not employed	21
+other activity	7
+very low	
+low	
+medium	
+high	
+very high	
+young people living alone	4
+middle-aged singles	16
+older singles	21
+young two-person households	3
+middle-aged two-person households	11
+older two-person households	18
+Households with at least 3 adults	7
+Households with at least 1 child under 6 years	7
+Households with at least 1 child under 14 years	7
+Households with at least 1 child under 18 years	4
+Single parents	2
+
+Also, keep in mind that the attributes of each individual person are correlated.
+For example the "Household Type" and "Age Group" are related. 

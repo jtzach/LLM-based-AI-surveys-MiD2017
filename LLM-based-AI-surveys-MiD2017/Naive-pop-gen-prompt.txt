@@ -1,0 +1,49 @@
+Naive Method. 
+I want you to create a synthetic population of Germany 2017. You will create an excel of the synthetic population. Every row will represent a candidate. 
+Attributes of the population are:
+Age Group
+	14 to 17 years
+	18 to 29 years
+	30 to 39 years
+	40 to 49 years
+	50 to 59 years
+	60 to 64 years
+	65 to 74 years
+	75 to 79 years
+	80 years and older
+Education Level
+	no degree (yet)
+	low
+	medium
+	high
+Main Activity
+	full-time employee (including trainees)
+	part-time employee (11 to 35 hours per week)
+	Employed person without details on the extent of education
+	Pupil including preschool 
+	Student
+	housewife/househusband
+	Pensioner not employed
+	other activity
+Economic Status
+	very low
+	low
+	medium
+	high
+	very high
+Household Type
+	young people living alone
+	middle-aged singles
+	older singles
+	young two-person households
+	middle-aged two-person households
+	older two-person households
+	Households with at least 3 adults
+	Households with at least 1 child under 6 years
+	Households with at least 1 child under 14 years
+	Households with at least 1 child under 18 years
+	Single parents
+
+I want an educated guess about how German population in 2017 would look like.
+Keep in mind that the attributes of each individual person are correlated.
+For example the "Household Type" and "Age Group" are related. 
