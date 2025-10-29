@@ -6,3 +6,5 @@ A replication package containing data and code to reproduce this study’s resul
  • extensive persona prompts used in the guided LLM methodology,
  • supplementary hints and strategy documentation for persona modelling, and
  • an extracted subset of the dataset corresponding to the study’s tables and results.
+ 
+Dataset: https://www.mobilitaet-in-deutschland.de/archi%20ve/pdf/MiD2017%20Tabellenband%20Deutschland.pdf
